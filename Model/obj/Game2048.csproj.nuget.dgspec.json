@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artyo\\source\\repos\\Game2048\\Game2048.csproj": {}
+    "/home/potyoma/Game2048/Model/Game2048.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artyo\\source\\repos\\Game2048\\Game2048.csproj": {
+    "/home/potyoma/Game2048/Model/Game2048.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artyo\\source\\repos\\Game2048\\Game2048.csproj",
+        "projectUniqueName": "/home/potyoma/Game2048/Model/Game2048.csproj",
         "projectName": "Game2048",
-        "projectPath": "C:\\Users\\artyo\\source\\repos\\Game2048\\Game2048.csproj",
-        "packagesPath": "C:\\Users\\artyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artyo\\source\\repos\\Game2048\\obj\\",
+        "projectPath": "/home/potyoma/Game2048/Model/Game2048.csproj",
+        "packagesPath": "/home/potyoma/.nuget/packages/",
+        "outputPath": "/home/potyoma/Game2048/Model/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\artyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/potyoma/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }

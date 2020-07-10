@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fkqw150zwqEj/XADlQdD793mahkCdoM4bSKQzq6CIkrZ4Y6g3wf8C4fB+/Q4hQ7WWtRZJkIqud6YPGO6K5Gd4g==",
+  "dgSpecHash": "dhg4se8T5uagP7AW9nWIEABgJmzfWKyL1AuiLynzojhDMdA1uB3pKg9AKFKkjaLkZh2I3Y+6l/f7/4ExkqJBVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artyo\\source\\repos\\Console2048\\Console2048.csproj",
+  "projectFilePath": "/home/potyoma/Game2048/Game/Console2048.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

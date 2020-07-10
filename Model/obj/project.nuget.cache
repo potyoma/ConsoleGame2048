@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4W5C7C8vCpxwvdQz6ysUp0nfZ9eJ30iQqKdH+XaNO2QseILD0bc+1+lS3VinXweJqjW1qzCRYSWmP33DnFwbMA==",
+  "dgSpecHash": "ErRA9oJLO5uIzdxAsmXf66mGzjjYKn0cYDBL5ym19Rejp5ez9BdsXfG59MIDPhtYlP/rg76QfHr5mUKX1Xg5YA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artyo\\source\\repos\\Game2048\\Game2048.csproj",
+  "projectFilePath": "/home/potyoma/Game2048/Model/Game2048.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

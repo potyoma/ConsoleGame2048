@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Game2048\Game2048.csproj" />
+    <ProjectReference Include="..\Model\Game2048.csproj" />
   </ItemGroup>
 
 </Project>
