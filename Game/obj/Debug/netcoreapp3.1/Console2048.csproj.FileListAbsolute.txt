@@ -1,0 +1,16 @@
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.csprojAssemblyReference.cache
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.AssemblyInfoInputs.cache
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.AssemblyInfo.cs
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Console2048.exe
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Console2048.deps.json
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Console2048.runtimeconfig.json
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Console2048.runtimeconfig.dev.json
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Console2048.dll
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Console2048.pdb
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Game2048.dll
+C:\Users\artyo\source\repos\Console2048\bin\Debug\netcoreapp3.1\Game2048.pdb
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.csproj.CopyComplete
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.dll
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.pdb
+C:\Users\artyo\source\repos\Console2048\obj\Debug\netcoreapp3.1\Console2048.genruntimeconfig.cache

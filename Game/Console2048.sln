@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console2048", "Console2048.csproj", "{678B4875-3D64-4242-8042-6470045280A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "..\Game2048\Game2048.csproj", "{64D4A3BE-9189-4A0B-BCEA-75E81807EE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678B4875-3D64-4242-8042-6470045280A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678B4875-3D64-4242-8042-6470045280A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678B4875-3D64-4242-8042-6470045280A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678B4875-3D64-4242-8042-6470045280A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D4A3BE-9189-4A0B-BCEA-75E81807EE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D4A3BE-9189-4A0B-BCEA-75E81807EE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D4A3BE-9189-4A0B-BCEA-75E81807EE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D4A3BE-9189-4A0B-BCEA-75E81807EE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A50E66-F717-47DD-9673-775F080BCD4A}
+	EndGlobalSection
+EndGlobal
